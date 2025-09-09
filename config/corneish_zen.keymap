@@ -71,7 +71,7 @@
             bindings = <
 &trans  &kp F1      &kp F2    &kp F3     &kp F4      &kp F5         &kp F6       &kp F7     &kp F8     &kp F9    &kp F10          &kp F11
 &trans  &trans      &kp BSLH  &kp GRAVE  &kp HOME    &kp PG_UP      &kp MINUS    &kp EQUAL  &kp LBKT   &kp RBKT  &trans           &kp F12
-&trans  &trans      &kp PIPE  &kp TILDE  &kp END     &kp PG_DN      &kp UNDER    &kp PLUS   &kp LBRC   &kp RBRC  &trans      &trans
+&trans  &trans      &kp PIPE  &kp TILDE  &kp END     &kp PG_DN      &kp UNDER    &kp PLUS   &kp LBRC   &kp RBRC  &kp K_MENU       &trans
                                     &trans    &trans    &kp SPACE    &kp RET    &trans     &trans
             >;
         };
